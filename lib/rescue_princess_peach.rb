@@ -1,4 +1,4 @@
-require'pry'
+require 'pry'
 
 def rescue_princess_peach
   status = "rescued"
